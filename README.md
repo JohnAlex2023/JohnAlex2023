@@ -5,6 +5,12 @@ Desarrollador Full Stack junior: construyo aplicaciones web con Python/FastAPI y
 
 Colombia · Disponible para Cali, Pereira, Medellín, Bogotá o remoto · Inglés B2
 
+## Proyecto destacado: LactiCuenta
+
+Sistema web para registrar la leche que entregan los socios de una asociación lechera y liquidar su pago cada quincena. En producción con varias asociaciones de Nariño.
+
+NestJS · Prisma · MySQL · Angular · [Ver caso de estudio →](https://github.com/JohnAlex2023/lacticuenta-showcase)
+
 ## Experiencia
 
 **Desarrollador Full Stack, práctica profesional** · Oncólogos del Occidente (Zentria), Pereira · 2025
@@ -19,7 +25,7 @@ Equipo de 5 con Scrum. Frontend en Vue.js de un e-commerce y apoyo en el backend
 
 | Proyecto | Qué resuelve | Stack |
 | --- | --- | --- |
-| LactiCuenta | Registro de leche y liquidación quincenal para asociaciones lecheras. En producción con varias asociaciones de Nariño. Código privado. | NestJS, Prisma, MySQL, Angular |
+| [LactiCuenta](https://github.com/JohnAlex2023/lacticuenta-showcase) | Registro de leche y liquidación quincenal para asociaciones lecheras. En producción con varias asociaciones de Nariño. Código privado. | NestJS, Prisma, MySQL, Angular |
 | [Gastrexia](https://github.com/JohnAlex2023/Gastrexia_Proyect) | Pedidos por código QR para restaurantes, con vista de cocina en tiempo real. [Demo](https://gastrexia-frontend.vercel.app) | React, Express, Prisma, PostgreSQL, Socket.IO |
 
 ## Tecnologías
