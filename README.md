@@ -19,7 +19,7 @@ Equipo de 5 con Scrum. Frontend en Vue.js de un e-commerce y apoyo en el backend
 
 | Proyecto | Qué resuelve | Stack |
 | --- | --- | --- |
-| LactiCuenta | Registro de leche y liquidación quincenal para asociaciones lecheras. En uso por una asociación. Código privado. | NestJS, Prisma, MySQL, Angular |
+| LactiCuenta | Registro de leche y liquidación quincenal para asociaciones lecheras. En producción con varias asociaciones de Nariño. Código privado. | NestJS, Prisma, MySQL, Angular |
 | [Gastrexia](https://github.com/JohnAlex2023/Gastrexia_Proyect) | Pedidos por código QR para restaurantes, con vista de cocina en tiempo real. [Demo](https://gastrexia-frontend.vercel.app) | React, Express, Prisma, PostgreSQL, Socket.IO |
 
 ## Tecnologías
