@@ -1,16 +1,33 @@
-## Hi there 👋
+# Alexander Taimal
 
-<!--
-**JohnAlex2023/JohnAlex2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero de Sistemas y Computación (Universidad Tecnológica de Pereira, 2026).
+Desarrollador Full Stack junior: construyo aplicaciones web con Python/FastAPI y Node.js en el backend, React, Vue o Angular en el frontend, y bases de datos relacionales.
 
-Here are some ideas to get you started:
+Colombia · Disponible para Cali, Pereira, Medellín, Bogotá o remoto · Inglés B2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiencia
+
+**Desarrollador Full Stack, práctica profesional** · Oncólogos del Occidente (Zentria), Pereira · 2025
+
+Desarrollé un sistema para automatizar la recepción, validación y aprobación de facturas electrónicas: FastAPI, SQLAlchemy, MySQL, React con TypeScript, Microsoft Graph API y OAuth 2.0 con Azure AD. El código pertenece a la empresa y no es público.
+
+**Laboratorio de Software UTP** · proyecto académico · 2024
+
+Equipo de 5 con Scrum. Frontend en Vue.js de un e-commerce y apoyo en el backend con Node.js y MySQL.
+
+## Proyectos
+
+| Proyecto | Qué resuelve | Stack |
+| --- | --- | --- |
+| LactiCuenta | Registro de leche y liquidación quincenal para asociaciones lecheras. En uso por una asociación. Código privado. | NestJS, Prisma, MySQL, Angular |
+| [Gastrexia](https://github.com/JohnAlex2023/Gastrexia_Proyect) | Pedidos por código QR para restaurantes, con vista de cocina en tiempo real. [Demo](https://gastrexia-frontend.vercel.app) | React, Express, Prisma, PostgreSQL, Socket.IO |
+
+## Tecnologías
+
+**Usadas en trabajo o en proyectos desplegados:** Python, FastAPI, SQLAlchemy, TypeScript, Node.js, Express, NestJS, Prisma, React, Angular, Vue.js, MySQL, PostgreSQL, Docker, Git, Microsoft Graph API.
+
+**Uso académico o en proyectos pequeños:** MongoDB, redes (certificado Cisco), Spark.
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/alexander-taimal) · alexandertaimal23@gmail.com
